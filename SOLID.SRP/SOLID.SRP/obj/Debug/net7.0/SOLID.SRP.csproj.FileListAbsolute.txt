@@ -1,0 +1,15 @@
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.csproj.AssemblyReference.cache
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.AssemblyInfoInputs.cache
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.AssemblyInfo.cs
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.csproj.CoreCompileInputs.cache
+D:\Projects\SOLID.SRP\SOLID.SRP\bin\Debug\net7.0\SOLID.SRP.exe
+D:\Projects\SOLID.SRP\SOLID.SRP\bin\Debug\net7.0\SOLID.SRP.deps.json
+D:\Projects\SOLID.SRP\SOLID.SRP\bin\Debug\net7.0\SOLID.SRP.runtimeconfig.json
+D:\Projects\SOLID.SRP\SOLID.SRP\bin\Debug\net7.0\SOLID.SRP.dll
+D:\Projects\SOLID.SRP\SOLID.SRP\bin\Debug\net7.0\SOLID.SRP.pdb
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.dll
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\refint\SOLID.SRP.dll
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.pdb
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\SOLID.SRP.genruntimeconfig.cache
+D:\Projects\SOLID.SRP\SOLID.SRP\obj\Debug\net7.0\ref\SOLID.SRP.dll
